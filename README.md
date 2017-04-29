@@ -1,6 +1,6 @@
 # Mega-Project-List
 Mega Project List solved in Python
-
+###### (projects with * in front have been completed and added to this repo)
 ========
 
 Numbers
